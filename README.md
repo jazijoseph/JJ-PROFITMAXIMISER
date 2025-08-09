@@ -1,5 +1,4 @@
 # JJ-PROFITMAXIMISER
-# JJ PROFIT MAXIMIZER
 
 This is a simple web app to predict expected profit amounts based on user input for Quantity, Price, Discount, Drawings, Purchases, Damages, and Sales Returns using a linear regression model.
 
